@@ -1,0 +1,12 @@
+contract anchor_text {
+  private field text_hash: Field
+
+  def initialize(hash: Field):
+    text_hash = hash
+
+  def update_hash(new_hash: Field):
+    text_hash = new_hash
+
+  def get_hash(): Field
+    return text_hash
+}

@@ -1,0 +1,26 @@
+[
+    {
+      "slot": 0,
+      "epoch": 1,
+      "timestamp": 1700000000000,
+      "permissioned": [
+        {
+          "address": "addr_test1vpqgsp2jkf45zg89vdupsxcrs38sn73f4n55kj2t2mfqswccy8c9r",
+          "voting_power": 1,
+          "sidechain_pub_key": "0x1234567890abcdef1234567890abcdef12345678",
+          "aura_pub_key": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+          "grandpa_pub_key": "0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef"
+        }
+      ],
+      "committee": [
+        {
+          "address": "addr_test1vpqgsp2jkf45zg89vdupsxcrs38sn73f4n55kj2t2mfqswccy8c9r",
+          "voting_power": 1,
+          "sidechain_pub_key": "0x1234567890abcdef1234567890abcdef12345678",
+          "aura_pub_key": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+          "grandpa_pub_key": "0xdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef"
+        }
+      ]
+    }
+  ]
+  
